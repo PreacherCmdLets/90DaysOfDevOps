@@ -9,7 +9,8 @@ Let start with what you want to learn, visualize your thoughts in the big pictur
 
 In past, I used GitHub for other projects. If you are a first-time user of GitHub try to create an account and store work here. 
 
-Here is some resource on how to use GitHub to clone the projects etc. Here
+Here is some resource on how to use GitHub to clone the projects etc. 
+https://youtu.be/3Tn58KQvWtU
 
 
 ## Let the journey begin
