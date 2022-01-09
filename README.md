@@ -8,7 +8,7 @@ The goal is to take 90 days, 1 hour a day, to tackle over 13 areas of DevOps to 
 
 This will not cover all things DevOps but it will cover the areas that I feel will benefit my learning and understanding overall. 
 
-I am keeping track of MichaelCade work here and my adding addtional work here. 
+Also, I am keeping track of MichaelCade (@MichaelCade1 from $TWTR) work here and my adding addtional work here. 
 
 ## Progress 
 
