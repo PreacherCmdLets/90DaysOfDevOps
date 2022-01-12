@@ -2,7 +2,7 @@
 
 I am keeping track of MichaelCade (@MichaelCade1 from $TWTR) work here and add my addtional work here. 
 
-This repository is used to document my journey on getting a better foundational knowledge of DevOps. I will be starting this journey on the 8st January 2022 but the idea is that we take 90 days which just so happens to be January 8th to April 8th. 
+This repository is used to document my journey on getting a better foundational knowledge of DevOps. I had started this journey on the 8st January 2022 but the idea is that we take 90 days which just so happens to be January 8th to April 8th. 
 
 The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources. 
 
