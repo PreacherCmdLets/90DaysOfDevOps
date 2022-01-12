@@ -9,8 +9,7 @@ Let start with what you want to learn, visualize your thoughts in the big pictur
 
 In past, I used GitHub for other projects. If you are a first-time user of GitHub try to create an account and store work here. 
 
-Here is some resource on how to use GitHub to clone the projects etc. 
-https://youtu.be/3Tn58KQvWtU
+Here is some resource on how to use GitHub to clone the projects etc. Here
 
 
 ## Let the journey begin
@@ -30,7 +29,7 @@ There are so many blog articles and YouTube videos to list here, but as we start
 
 Firstly, DevOps is not a tool. You cannot buy it, it is not a software SKU or an open-source GitHub repository you can download. It is also not a programming language, it is also not some dark art magic either. 
 
-DevOps is a way to do smarter things in Software Development. - Hold up... But if you are not a software developer should you turn away right now and not dive into this project??? No Not at all, Stay... Because DevOps brings together a combination of software development and operations. I mentioned earlier that I was more on the VM side and that would generally fall under the Operations side of the house, but within the community, there are people with all different backgrounds where DevOps is 100% going to benefit the individual, Developers, Operations and QA Engineers all can equally learn these best practices by having a better understanding of DevOps. 
+DevOps is a way to do smarter things in Software Development. - Hold up... But if you are not a software developer should you turn away right now and not dive into this project??? No Not at all, Stay... Because DevOps brings together a combination of software development and operations. I come from the Database / Infrastructure that would generally fall under the Operations side of the house, but within the community, there are people with all different backgrounds where DevOps is 100% going to benefit the individual, Developers, Operations, and QA Engineers all can equally learn these best practices by having a better understanding of DevOps. 
 
 DevOps is a set of practices that help to reach the goal of this movement: reducing the time between the ideation phase of a product and its release in production to the end-user or whomever it could be an internal team or customer. 
 
@@ -48,5 +47,4 @@ My advice is to watch all of the below and hopefully you also picked something u
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
 - [What is DevOps? Easy Way](https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=43s)
 - [DevOps roadmap 2022 | Success Roadmap 2022](https://www.youtube.com/watch?v=7l_n97Mt0ko)
-
 If you made it this far then you will know if this is where you want to be or not. See you on [Day 2](day02.md).  
